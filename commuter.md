@@ -71,7 +71,9 @@
 
 ### Did you test the results by yourself? If so,What’s your test Results?
 
-time consuming!
+Yes: but without qemu!
+
+详见我的课堂展示ppt
 
 ### Give the survey paper list in the same area of the paper your reading.
 
